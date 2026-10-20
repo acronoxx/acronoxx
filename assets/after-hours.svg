@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
   <title id="title">After hours — life beyond code</title>
-  <desc id="desc">A visual index of strength training, gaming, Redstone builds, protein shakes, and lo-fi music</desc>
+  <desc id="desc">A visual index of strength training, gaming, reading, protein shakes, and lo-fi music</desc>
   <style>
     :root {
       color-scheme: light dark;
@@ -20,7 +20,7 @@
     .text { fill: var(--text); }
     .secondary { fill: var(--secondary); }
     text { font-family: "IBM Plex Serif", "Source Serif 4", Georgia, serif; }
-    .sans { font-family: "IBM Plex Sans", Arial, sans-serif; }
+    .sans { font-family: "IBM Plex Mono", Consolas, monospace; }
     @media (prefers-color-scheme: dark) {
       :root {
         --bg: #111110;
@@ -61,10 +61,10 @@
   <circle class="accent-bg" cx="552" cy="235" r="26"/>
   <path d="M538 235h28M552 221v28" stroke="var(--accent)" stroke-width="2"/>
 
-  <text class="secondary sans" x="630" y="192" font-size="10" letter-spacing="1.8">03 / SANDBOX</text>
-  <text class="text" x="630" y="239" font-size="31" font-weight="600">Redstone</text>
-  <text class="secondary" x="630" y="270" font-size="15">Build. Automate. Rebuild.</text>
-  <path d="M814 218h36v36h-36zM823 227h18v18h-18z" fill="none" stroke="var(--accent)" stroke-width="2"/>
+  <text class="secondary sans" x="630" y="192" font-size="10" letter-spacing="1.8">03 / READING</text>
+  <text class="text" x="630" y="239" font-size="31" font-weight="600">On the shelf</text>
+  <text class="secondary" x="630" y="270" font-size="15">Atomic Habits · Bridgerton</text>
+  <path d="M813 215h17c9 0 15 5 15 13v30c-4-5-9-7-15-7h-17zM845 228c0-8 6-13 15-13h17v36h-17c-6 0-11 2-15 7z" fill="none" stroke="var(--accent)" stroke-width="2"/>
 
   <text class="secondary sans" x="915" y="192" font-size="10" letter-spacing="1.8">04 / RECOVERY</text>
   <text class="text" x="915" y="239" font-size="31" font-weight="600">Shake &amp; lo-fi</text>

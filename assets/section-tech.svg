@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="Technical index">
+  <style>
+    :root{color-scheme:light dark;--bg:#FAFAF7;--text:#111110;--muted:#4A4843;--accent:#D8C7A3}
+    @media(prefers-color-scheme:dark){:root{--bg:#111110;--text:#F1EFEA;--muted:#A9A59C;--accent:#CDB88E}}
+    text{font-family:"IBM Plex Serif",Georgia,serif}.mono{font-family:"IBM Plex Mono",Consolas,monospace}
+  </style>
+  <rect width="1200" height="92" fill="var(--bg)"/>
+  <text class="mono" x="0" y="23" fill="var(--muted)" font-size="10" letter-spacing="2">02 / TOOLKIT</text>
+  <text x="0" y="69" fill="var(--text)" font-size="36" font-weight="700">Technical Index</text>
+  <text class="mono" x="1200" y="67" text-anchor="end" fill="var(--muted)" font-size="10" letter-spacing="1.4">A WORKING SET, NEVER A FINISHED LIST</text>
+  <line x1="272" y1="62" x2="840" y2="62" stroke="var(--accent)" stroke-width="2"/>
+</svg>

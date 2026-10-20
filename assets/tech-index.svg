@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Technical index</title>
+  <desc id="desc">Languages, web technologies, AI agent tools, and engineering software used by Alexis Baret</desc>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #FAFAF7;
+      --text: #111110;
+      --secondary: #4A4843;
+      --accent: #D8C7A3;
+      --line: #DEDAD1;
+    }
+    .bg { fill: var(--bg); }
+    .text { fill: var(--text); }
+    .secondary { fill: var(--secondary); }
+    .line { stroke: var(--line); }
+    .accent { stroke: var(--accent); }
+    text { font-family: "IBM Plex Serif", Georgia, serif; }
+    .mono { font-family: "IBM Plex Mono", Consolas, monospace; }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #111110;
+        --text: #F1EFEA;
+        --secondary: #A9A59C;
+        --accent: #CDB88E;
+        --line: #2B2A27;
+      }
+    }
+  </style>
+
+  <rect class="bg" width="1200" height="430" rx="4"/>
+  <text class="secondary mono" x="32" y="38" font-size="10" letter-spacing="2">TECHNICAL SKILLS / INDEX 001</text>
+  <text class="text" x="32" y="88" font-size="36" font-weight="700">A working set, not a finished list.</text>
+  <line class="accent" x1="32" y1="108" x2="1168" y2="108" stroke-width="2"/>
+
+  <line class="line" x1="600" y1="108" x2="600" y2="400"/>
+  <line class="line" x1="32" y1="254" x2="1168" y2="254"/>
+
+  <text class="secondary mono" x="32" y="143" font-size="10" letter-spacing="1.6">01 / LANGUAGES</text>
+  <text class="text" x="32" y="180" font-size="24" font-weight="600">Languages</text>
+  <text class="secondary mono" x="32" y="213" font-size="14">TypeScript · Python · Java · C · C++ · OCaml</text>
+  <text class="secondary mono" x="32" y="236" font-size="14">Elixir · Go · Scala · SQL · PHP · LaTeX</text>
+
+  <text class="secondary mono" x="632" y="143" font-size="10" letter-spacing="1.6">02 / WEB</text>
+  <text class="text" x="632" y="180" font-size="24" font-weight="600">Web &amp; backend</text>
+  <text class="secondary mono" x="632" y="213" font-size="14">React · Vite · Next.js · Node.js · WordPress</text>
+  <text class="secondary mono" x="632" y="236" font-size="14">Expo Go · REST APIs · HTML5 · CSS3</text>
+
+  <text class="secondary mono" x="32" y="289" font-size="10" letter-spacing="1.6">03 / AI &amp; AGENTS</text>
+  <text class="text" x="32" y="326" font-size="24" font-weight="600">AI &amp; agent systems</text>
+  <text class="secondary mono" x="32" y="359" font-size="14">LangChain · MCP · CopilotKit · AG-UI · A2UI</text>
+  <text class="secondary mono" x="32" y="382" font-size="14">PyTorch · TensorFlow</text>
+
+  <text class="secondary mono" x="632" y="289" font-size="10" letter-spacing="1.6">04 / DATA &amp; TOOLBOX</text>
+  <text class="text" x="632" y="326" font-size="24" font-weight="600">Data, cloud &amp; tools</text>
+  <text class="secondary mono" x="632" y="359" font-size="14">Supabase · Firebase · MySQL · SQLite · GCP</text>
+  <text class="secondary mono" x="632" y="382" font-size="14">Pandas · NumPy · Docker · Git · Linux · Figma</text>
+
+  <text class="secondary mono" x="1168" y="416" text-anchor="end" font-size="9" letter-spacing="1.2">ALWAYS EVOLVING</text>
+</svg>

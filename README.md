@@ -18,74 +18,25 @@ I explore everything between low-level programming, the web, and data.
 
 </div>
 
----
+<picture>
+  <img src="./assets/section-about.svg" width="100%" alt="About" />
+</picture>
 
-## `> whoami`
+I am a software engineering student interested in **distributed systems**,
+**AI agents**, and the craft behind reliable digital products. I learn by
+building, documenting, and understanding what happens beneath the interface.
 
-```yaml
-name: Alexis Baret
-alias: Acronox
-location: Brest, France
-status: Engineering student @ IMT Atlantique
+<picture>
+  <img src="./assets/section-tech.svg" width="100%" alt="Technical Index" />
+</picture>
 
-focus:
-  - Software engineering
-  - Web development
-  - Data & infrastructure
-  - Learning by building
+<picture>
+  <img src="./assets/tech-index.svg" width="100%" alt="Technical index — languages, web, AI agents, data, infrastructure, and engineering tools" />
+</picture>
 
-offline:
-  training: "Push / Pull / Legs — 5 sessions per week"
-  games: ["The Finals", "Animal Crossing", "Minecraft"]
-  fuel: ["Protein shake", "Lo-fi"]
-```
-
-## Tech index
-
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3 align="center">Languages</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,java,ocaml,go,elixir,ts,js,php,html,css&perline=6" alt="C, C++, Python, Java, OCaml, Go, Elixir, TypeScript, JavaScript, PHP, HTML and CSS" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Liquid" />
-        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3 align="center">Frameworks & tools</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,wordpress,docker,git,arduino,figma&perline=4" alt="React, Next.js, Node.js, WordPress, Docker, Git, Arduino and Figma" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3 align="center">Data & databases</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,sqlite&perline=4" alt="Supabase, Firebase, MySQL and SQLite" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3 align="center">Cloud & infrastructure</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=gcp,docker&perline=4" alt="Google Cloud and Docker" />
-      </p>
-      <br />
-      <blockquote>
-        The stack evolves with every new project.
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
-## GitHub activity
+<picture>
+  <img src="./assets/section-github.svg" width="100%" alt="Contribution Ledger" />
+</picture>
 
 <div align="center">
   <picture>
@@ -105,22 +56,14 @@ offline:
   </picture>
 </div>
 
-## Beyond the code
-
 <picture>
-  <img src="./assets/after-hours.svg" width="100%" alt="After hours — strength training, gaming, Redstone, protein shakes, and lo-fi music" />
+  <img src="./assets/section-life.svg" width="100%" alt="Beyond the Code" />
 </picture>
 
----
+<picture>
+  <img src="./assets/after-hours.svg" width="100%" alt="After hours — strength training, gaming, reading, protein shakes, and lo-fi music" />
+</picture>
 
-<div align="center">
-
-### Build. Learn. Repeat.
-
-Always open to conversations, new ideas, and interesting projects.
-
-![Profile views](https://komarev.com/ghpvc/?username=acronoxx&style=flat-square&color=D8C7A3&label=PROFILE+VIEWS)
-
-<sub>Built with code, a protein shake, and probably a lo-fi playlist.</sub>
-
-</div>
+<a href="https://acronoxx.github.io">
+  <img src="./assets/signature.svg" width="100%" alt="Build. Learn. Repeat. Visit acronoxx.github.io" />
+</a>

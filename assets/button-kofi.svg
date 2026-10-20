@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="42" viewBox="0 0 140 42" role="img" aria-label="Ko-fi">
+  <style>
+    :root { color-scheme:light dark; --bg:#FFFFFF; --text:#111110; --line:#DEDAD1; }
+    @media (prefers-color-scheme:dark) { :root { --bg:#111110; --text:#F1EFEA; --line:#4A4843; } }
+    text { font-family:"IBM Plex Serif",Georgia,serif; }
+  </style>
+  <rect width="140" height="42" fill="var(--bg)"/>
+  <line x1="0" y1="40.5" x2="140" y2="40.5" stroke="#D8C7A3" stroke-width="2"/>
+  <text x="6" y="26.5" fill="var(--text)" font-size="14" font-weight="600">Ko-fi</text>
+  <text x="124" y="26.5" text-anchor="end" fill="var(--text)" font-size="14">↗</text>
+</svg>

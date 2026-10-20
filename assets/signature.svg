@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Acronox signature</title>
+  <desc id="desc">Build, learn, repeat</desc>
+  <style>
+    :root{color-scheme:light dark;--bg:#111110;--text:#FAFAF7;--muted:#A9A59C;--accent:#D8C7A3;--mark:#1B1B19}
+    text{font-family:"IBM Plex Serif",Georgia,serif}.mono{font-family:"IBM Plex Mono",Consolas,monospace}
+  </style>
+  <rect width="1200" height="190" rx="4" fill="var(--bg)"/>
+  <g transform="translate(-26 -54) scale(.48)">
+    <path d="M201 420Q173.2 420 152.1 409.8Q130.9 399.6 119 381.8Q107.1 364.1 107.1 341.2Q107.1 314.9 120.7 299.9Q134.3 284.8 164.5 278.2Q194.6 271.7 244.7 271.7H263.2V264.8Q263.2 247.3 254.2 240Q245.2 232.7 223.3 232.7Q211.7 232.7 197.1 235.4Q182.5 238.1 164.5 244.9Q151.3 249.8 142.1 246.4Q132.9 243 127.8 234.7Q122.6 226.4 122.9 216.7Q123.1 207 129.2 198.2Q135.3 189.5 147.9 184.6Q171.3 175.8 191 172.9Q210.7 170 227.2 170Q267.1 170 293.1 181.4Q319.1 192.9 332 216.4Q344.9 240 344.9 277V375.3Q344.9 396.7 334.7 407.8Q324.5 419 305 419Q285.1 419 274.9 407.8Q265.6 398.1 264.2 380.6Q261.3 389.4 255.9 396.2Q247.2 407.4 233.1 413.7Q218.9 420 201 420ZM263.2 321.3V312.5H244.7Q225.8 312.5 213.4 315.2Q201 317.9 195.1 323.5Q189.3 329 189.3 337.8Q189.3 349 197.3 356.3Q205.3 363.6 220.4 363.6Q232.6 363.6 242.1 358.2Q251.5 352.9 257.4 343.4Q263.2 333.9 263.2 321.3Z" fill="var(--text)"/>
+    <g transform="translate(358.3 142.8) rotate(36)">
+      <path d="M0-72C38-39.6 38 39.6 0 72C-38 39.6-38-39.6 0-72Z" fill="var(--accent)"/>
+      <path d="M0 61.9V-57.6" stroke="var(--bg)" stroke-width="5" stroke-linecap="round"/>
+    </g>
+  </g>
+  <text x="230" y="91" fill="var(--text)" font-size="39" font-weight="700">Build. Learn. Repeat.</text>
+  <text class="mono" x="232" y="124" fill="var(--muted)" font-size="11" letter-spacing="1.5">OPEN TO IDEAS, SYSTEMS AND MEANINGFUL WORK.</text>
+  <line x1="760" y1="94" x2="1148" y2="94" stroke="var(--accent)" stroke-width="2"/>
+  <text class="mono" x="1148" y="78" text-anchor="end" fill="var(--text)" font-size="11" letter-spacing="1.5">ACRONOXX.GITHUB.IO ↗</text>
+  <text class="mono" x="1148" y="124" text-anchor="end" fill="var(--muted)" font-size="10" letter-spacing="1.5">BREST, FRANCE · 48.3904° N</text>
+</svg>
