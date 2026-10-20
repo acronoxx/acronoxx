@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">After hours — life beyond code</title>
+  <desc id="desc">A visual index of strength training, gaming, Redstone builds, protein shakes, and lo-fi music</desc>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #FAFAF7;
+      --surface: #FFFFFF;
+      --text: #111110;
+      --secondary: #4A4843;
+      --accent: #D8C7A3;
+      --accent-bg: #EFE6D3;
+      --line: #DEDAD1;
+    }
+    .bg { fill: var(--bg); }
+    .surface { fill: var(--surface); }
+    .accent { fill: var(--accent); }
+    .accent-bg { fill: var(--accent-bg); }
+    .line { stroke: var(--line); }
+    .text { fill: var(--text); }
+    .secondary { fill: var(--secondary); }
+    text { font-family: "IBM Plex Serif", "Source Serif 4", Georgia, serif; }
+    .sans { font-family: "IBM Plex Sans", Arial, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #111110;
+        --surface: #1A1917;
+        --text: #F1EFEA;
+        --secondary: #A8A49C;
+        --accent: #CDB88E;
+        --accent-bg: #2A251C;
+        --line: #2B2A27;
+      }
+    }
+  </style>
+
+  <rect class="bg" width="1200" height="350" rx="8"/>
+  <rect class="surface" x="1" y="1" width="1198" height="348" rx="7" fill="none" stroke="var(--line)"/>
+
+  <text class="secondary sans" x="30" y="40" font-size="11" letter-spacing="2.2">PERSONAL INDEX / 004</text>
+  <text class="text" x="30" y="98" font-size="48" font-weight="600" letter-spacing="-2">After hours</text>
+  <text class="secondary" x="30" y="128" font-size="17" font-style="italic">The other systems I keep running.</text>
+
+  <line class="line" x1="30" y1="158" x2="1170" y2="158"/>
+  <line class="line" x1="315" y1="158" x2="315" y2="320"/>
+  <line class="line" x1="600" y1="158" x2="600" y2="320"/>
+  <line class="line" x1="885" y1="158" x2="885" y2="320"/>
+
+  <text class="secondary sans" x="30" y="192" font-size="10" letter-spacing="1.8">01 / DISCIPLINE</text>
+  <text class="text" x="30" y="239" font-size="31" font-weight="600">Push · Pull · Legs</text>
+  <text class="secondary" x="30" y="270" font-size="15">Five sessions every week.</text>
+  <rect class="accent" x="30" y="294" width="48" height="4"/>
+  <rect class="accent" x="84" y="294" width="48" height="4"/>
+  <rect class="accent" x="138" y="294" width="48" height="4"/>
+  <rect class="accent" x="192" y="294" width="48" height="4"/>
+  <rect class="accent" x="246" y="294" width="48" height="4"/>
+
+  <text class="secondary sans" x="345" y="192" font-size="10" letter-spacing="1.8">02 / COMPETITION</text>
+  <text class="text" x="345" y="239" font-size="31" font-weight="600">The Finals</text>
+  <text class="secondary" x="345" y="270" font-size="15">Precision. Tempo. Teamwork.</text>
+  <circle class="accent-bg" cx="552" cy="235" r="26"/>
+  <path d="M538 235h28M552 221v28" stroke="var(--accent)" stroke-width="2"/>
+
+  <text class="secondary sans" x="630" y="192" font-size="10" letter-spacing="1.8">03 / SANDBOX</text>
+  <text class="text" x="630" y="239" font-size="31" font-weight="600">Redstone</text>
+  <text class="secondary" x="630" y="270" font-size="15">Build. Automate. Rebuild.</text>
+  <path d="M814 218h36v36h-36zM823 227h18v18h-18z" fill="none" stroke="var(--accent)" stroke-width="2"/>
+
+  <text class="secondary sans" x="915" y="192" font-size="10" letter-spacing="1.8">04 / RECOVERY</text>
+  <text class="text" x="915" y="239" font-size="31" font-weight="600">Shake &amp; lo-fi</text>
+  <text class="secondary" x="915" y="270" font-size="15">Refuel. Reset. Press play.</text>
+  <path d="M1124 214h27l-4 43h-19zM1127 207h21v7h-21z" fill="none" stroke="var(--accent)" stroke-width="2"/>
+  <path d="m1131 233 5-5 6 7 5-5" fill="none" stroke="var(--accent)" stroke-width="1.5"/>
+
+  <text class="secondary sans" x="30" y="326" font-size="9" letter-spacing="1.5">ACRONOX — BREST, FRANCE</text>
+  <text class="secondary sans" x="1170" y="326" text-anchor="end" font-size="9" letter-spacing="1.5">OFFLINE, NOT IDLE</text>
+</svg>
