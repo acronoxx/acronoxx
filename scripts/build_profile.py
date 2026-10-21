@@ -35,7 +35,7 @@ THEMES = {
     },
 }
 
-WIDTH, HEIGHT = 1200, 2155
+WIDTH, HEIGHT = 1200, 2190
 LOGO_A = (
     "M201 420Q173.2 420 152.1 409.8Q130.9 399.6 119 381.8Q107.1 364.1 107.1 341.2Q107.1 314.9 120.7 299.9"
     "Q134.3 284.8 164.5 278.2Q194.6 271.7 244.7 271.7H263.2V264.8Q263.2 247.3 254.2 240Q245.2 232.7 223.3 232.7"
@@ -196,15 +196,15 @@ def build(theme):
 
 <!-- SIGNATURE -->
 <line class="line" x1="55" y1="2015" x2="1145" y2="2015"/>
-<g transform="translate(20 1980) scale(.32)">
+<g transform="translate(20 2015) scale(.32)">
 <path class="htext" d="{LOGO_A}"/>
 <g transform="translate(358.3 142.8) rotate(36)">{leaf(veins=False)}</g>
 </g>
-<text class="serif htext" x="190" y="2075" font-size="30" font-weight="700">See you in the commits.</text>
-<text class="mono hmuted" x="190" y="2109" font-size="10" letter-spacing="1.5">ALEXIS BARET · ACRONOX · BREST, FRANCE</text>
-<line class="hacc" x1="735" y1="2079" x2="1130" y2="2079"/>
-<text class="mono htext" x="1130" y="2063" text-anchor="end" font-size="10" letter-spacing="1.5">ACRONOXX.GITHUB.IO</text>
-<text class="mono hmuted" x="1130" y="2110" text-anchor="end" font-size="9" letter-spacing="1.5">PROFILE / EDITION 001</text>
+<text class="serif htext" x="190" y="2110" font-size="30" font-weight="700">See you in the commits.</text>
+<text class="mono hmuted" x="190" y="2144" font-size="10" letter-spacing="1.5">ALEXIS BARET · ACRONOX · BREST, FRANCE</text>
+<line class="hacc" x1="735" y1="2114" x2="1130" y2="2114"/>
+<text class="mono htext" x="1130" y="2098" text-anchor="end" font-size="10" letter-spacing="1.5">ACRONOXX.GITHUB.IO</text>
+<text class="mono hmuted" x="1130" y="2145" text-anchor="end" font-size="9" letter-spacing="1.5">PROFILE / EDITION 001</text>
 </svg>
 """
 
