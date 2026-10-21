@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://acronoxx.github.io">
-  <img src="./assets/profile.svg" width="100%" alt="Acronox — Alexis Baret, software engineering student at IMT Atlantique" />
-</a>
+<img src="./assets/profile.svg" width="100%" alt="Acronox — Alexis Baret, software engineering student at IMT Atlantique" />
 
 <sub>
   <a href="https://acronoxx.github.io">Portfolio</a>
