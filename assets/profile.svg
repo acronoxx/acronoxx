@@ -41,12 +41,6 @@
 <text class="mono muted tiny" x="70" y="485">00 / INDEX</text>
 <text class="serif text" x="70" y="555" font-size="44" font-weight="600">I build things to understand them.</text>
 <text class="mono muted" x="70" y="661" font-size="13">SCHOOL LABS, SIDE PROJECTS, AND WHAT I LEARN FROM BOTH</text>
-<line x1="70" y1="704" x2="1130" y2="704" stroke="var(--accent)" stroke-width="2"/>
-<text class="serif text" x="70" y="745" font-size="17" font-weight="600">Portfolio</text>
-<text class="serif text" x="318" y="745" font-size="17" font-weight="600">LinkedIn</text>
-<text class="serif text" x="566" y="745" font-size="17" font-weight="600">Email</text>
-<text class="serif text" x="814" y="745" font-size="17" font-weight="600">Ko-fi</text>
-<text class="mono muted" x="1130" y="745" text-anchor="end" font-size="10" letter-spacing="1.5">LINKS BELOW ↓</text>
 
 <!-- ABOUT -->
 <text class="mono muted tiny" x="70" y="835">01 / ABOUT</text>
