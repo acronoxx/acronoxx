@@ -3,9 +3,9 @@
 <desc id="desc">GitHub profile of Alexis Baret, software engineering student at IMT Atlantique in Brest</desc>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=IBM+Plex+Serif:ital,wght@0,400;0,600;0,700;1,400&amp;family=Nunito:wght@900&amp;display=swap');
-:root{--bg:#111110;--surface:#171715;--text:#F1EFEA;--muted:#A9A59C;--accent:#CDB88E;--accent-bg:#2A251C;--line:#2B2A27;--hero-bg:#0B0B0A;--hero-text:#FAFAF7;--hero-muted:#A9A59C;--hero-line:#2B2A27;--hero-ghost:#1B1B19;--hero-code:#3A3833;--hero-accent:#D8C7A3}
+:root{--bg:transparent;--surface:rgba(255,255,255,.03);--text:#E6EDF3;--muted:#8B949E;--accent:#CDB88E;--accent-bg:rgba(205,184,142,.12);--line:rgba(139,148,158,.3);--hero-bg:rgba(1,4,9,.6);--hero-text:#F0F6FC;--hero-muted:#8B949E;--hero-line:rgba(139,148,158,.2);--hero-ghost:rgba(255,255,255,.04);--hero-code:rgba(255,255,255,.16);--hero-accent:#D8C7A3;--hero-mid:#0D1117}
 .serif{font-family:'IBM Plex Serif',Georgia,serif}.mono{font-family:'IBM Plex Mono',Consolas,monospace}.brand{font-family:Nunito,'Arial Rounded MT Bold',sans-serif}.text{fill:var(--text)}.muted{fill:var(--muted)}.accent{fill:var(--accent)}.line{stroke:var(--line)}.icon{color:var(--text);fill:currentColor}.tiny{font-size:10px;letter-spacing:2px}.label{font-size:11px;letter-spacing:1.4px}
-.hbg{fill:var(--hero-bg)}.htext{fill:var(--hero-text)}.hmuted{fill:var(--hero-muted)}.hline{stroke:var(--hero-line)}.hghost{fill:var(--hero-ghost)}.hcode{fill:var(--hero-code)}.hleaf{fill:var(--hero-accent)}.hmid{stroke:var(--hero-bg)}.hacc{stroke:var(--hero-accent)}
+.hbg{fill:var(--hero-bg)}.htext{fill:var(--hero-text)}.hmuted{fill:var(--hero-muted)}.hline{stroke:var(--hero-line)}.hghost{fill:var(--hero-ghost)}.hcode{fill:var(--hero-code)}.hleaf{fill:var(--hero-accent)}.hmid{stroke:var(--hero-mid)}.hacc{stroke:var(--hero-accent)}
 </style>
 <rect width="1200" height="2540" fill="var(--bg)"/>
 
